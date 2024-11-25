@@ -8,7 +8,7 @@
 This is my blog, and I sometimes upload some fun things.[@Cestlavie](https://www.cestlavie.moe)
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,kotlin,docker,github,linux,react,vite,nodejs,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,kotlin,docker,cmake,github,linux,react,vite,nodejs,typescript)](https://skillicons.dev)
 
 
 ## Github Stats  
