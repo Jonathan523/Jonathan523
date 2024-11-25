@@ -13,10 +13,10 @@ This is my blog, and I sometimes upload some fun things.[@Cestlavie](https://www
 
 ## Github Stats  
 
-<a href="https://github.com/laplace825/"> 
+<a href="https://github.com/Jonathan523/"> 
   <img wide="50%" height=200px src="https://github-readme-stats.vercel.app/api?username=Jonathan523&theme=algolia&show_icons=true&?count_private=true?" />
 </a>
-<a href="https://github.com/laplace825/">
+<a href="https://github.com/Jonathan523/">
   <img wide="50%" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan523&layout=compact&theme=algolia&hide=html,scss,css,javascript,jupyter%20notebook,makefile,shell" />
 </a>
 
